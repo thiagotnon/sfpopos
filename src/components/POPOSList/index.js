@@ -1,6 +1,8 @@
 import React from 'react';
 import POPOSSpace from '../POPOSSpace';
 
+import './styles.css';
+
 function POPOSList() {
   return (
     <div className="POPOSList">
